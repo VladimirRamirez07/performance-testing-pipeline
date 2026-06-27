@@ -23,7 +23,7 @@
 
 Enterprise-grade **performance testing pipeline** built with Infrastructure as Code principles. Simulates massive concurrent user load through **Spike**, **Stress**, and **Load Testing** scenarios using K6, with real-time observability via Grafana + InfluxDB dashboards.
 
-This project demonstrates end-to-end performance engineering: from test design and execution to infrastructure provisioning and live metric visualization — skills directly applicable to production environments
+This project demonstrates end-to-end performance engineering: from test design and execution to infrastructure provisioning and live metric visualization — skills directly applicable to production environments.
 
 ---
 
